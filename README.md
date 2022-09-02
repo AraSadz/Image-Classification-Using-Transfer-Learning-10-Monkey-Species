@@ -18,10 +18,10 @@ Using InceptionV3 Model
 Conclusion
 
 Note that you need first to download these two files:
-1- mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
-2- inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+1- mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5 \
+2- inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5 
 
-These are the weights for trained mobilenetV2 and InceptionV3 models trained using imagenet. The following links can be used to download these files:
- 1- https://storage.googleapis.com/tensorflow/keras-applications/mobilenet_v2/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
+These are the weights for trained mobilenetV2 and InceptionV3 models trained using imagenet. The following links can be used to download these files: \
+ 1- https://storage.googleapis.com/tensorflow/keras-applications/mobilenet_v2/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5 \
  2- https://storage.googleapis.com/tensorflow/keras-applications/inception_v3/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
  
